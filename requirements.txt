@@ -5,3 +5,5 @@ tensorflow==2.20.0
 Pillow
 matplotlib
 scikit-image
+lime==0.2.0.1
+
