@@ -14,6 +14,15 @@ This is a Streamlit-based web application that predicts brain tumor types from M
 
 ---
 
+## 📸 Screenshots
+
+<img width="548" height="249" alt="streamlit1" src="https://github.com/user-attachments/assets/dc0aa048-b2bd-4804-ab74-f11a93dd1ec3" />
+
+<img width="576" height="242" alt="streamlit2" src="https://github.com/user-attachments/assets/18106ca5-36b4-4661-ba54-9946b3093788" />
+
+---
+
+
 ## 🚀 Run the App
 ```bash
 pip install -r requirements.txt
